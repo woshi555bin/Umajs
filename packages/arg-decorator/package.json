@@ -27,7 +27,7 @@
     "prepublish": "npm run build"
   },
   "dependencies": {
-    "validate": "^5.1.0",
+    "validate": "^5.2.0",
     "validator": "^13.1.17"
   },
   "devDependencies": {
