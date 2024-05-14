@@ -32,7 +32,7 @@
     "@umajs/router": "^1.1.1",
     "koa": "^2.11.0",
     "koa-views": "^6.2.1",
-    "nunjucks": "^3.2.0"
+    "nunjucks": "^3.2.3"
   },
   "devDependencies": {
     "@types/koa": "^2.0.48",
