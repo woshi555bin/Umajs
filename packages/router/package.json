@@ -28,7 +28,7 @@
     "prepublish": "npm run build"
   },
   "dependencies": {
-    "path-to-regexp": "^3.0.0"
+    "path-to-regexp": "^8.0.0"
   },
   "devDependencies": {
     "@types/koa": "^2.0.48",
