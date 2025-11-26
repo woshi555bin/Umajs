@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "validate": "^5.1.0",
-    "validator": "^13.1.17"
+    "validator": "^13.15.22"
   },
   "devDependencies": {
     "@types/koa": "^2.0.48",
